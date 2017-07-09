@@ -1,2 +1,3 @@
 print(Hello user!);
 print(How are you?);
+print(Look it's new t-shirt);
