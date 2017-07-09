@@ -1,2 +1,5 @@
 print(Hello user!);
 print(We want take cake);
+print(How are you?);
+print(Look it's new t-shirt);
+
