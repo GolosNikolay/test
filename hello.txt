@@ -1,2 +1,2 @@
 print(Hello user!);
-print(red);
+print(How are you?);
